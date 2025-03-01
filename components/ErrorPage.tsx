@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React  from 'react';
 
 import { PageHead } from './PageHead'
 import styles from './styles.module.css'

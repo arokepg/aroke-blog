@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React  from 'react';
 
 import { Block, ExtendedRecordMap } from 'notion-types'
 

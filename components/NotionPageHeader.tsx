@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React  from 'react';
 
 import * as types from 'notion-types'
 import { IoMoonSharp } from '@react-icons/all-files/io5/IoMoonSharp'
