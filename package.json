@@ -55,9 +55,15 @@
     "react-use": "^17.4.2",
     "rss": "^1.2.2"
   },
-  "rules": {
-    "react/jsx-uses-react": "off",
-    "react/react-in-jsx-scope": "off"
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ],
+    "rules": {
+      "react/jsx-uses-react": "off",
+      "react/react-in-jsx-scope": "off"
+    }
   },
   "devDependencies": {
     "@fisch0920/eslint-config": "^1.4.0",
