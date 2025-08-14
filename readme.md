@@ -1,5 +1,5 @@
 # Aroke's Blog
 
-Just my blog website
+**Just my blog website**
 
-My blog: https://aroke-ashen.vercel.app
+*URL:* https://aroke-ashen.vercel.app
